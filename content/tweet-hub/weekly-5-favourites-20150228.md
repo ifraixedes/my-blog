@@ -4,7 +4,6 @@ date = "2015-02-28T13:00:00+00:00"
 tags = ["tweets", "tech", "golang", "open source", "rustlang", "iojs"]
 title = "My 5 favourite tweets of the week #2"
 description = "5 favourite tweets of the week by Ivan Fraixedes"
-slug = "my-5-favourite-weekly-tweets-2"
 aliases = [
   "/tweet-hub/weekly-5-favourites-20150228.md",
   "/2015/02/28/my-5-favourite-weekly-tweets-2/"
