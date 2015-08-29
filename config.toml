@@ -14,7 +14,7 @@ pygmentsstyle = "colorful"
   post = "/post/:filename"
 
 [params]
-  subtitle = "Software Engineering, dev, hacks, tech community & thoughts"
+  subtitle = "Soft. Engineering, dev, hacks & thoughts"
   description = "Opinionated Software Engineering & Dev Stuff, hacks, Tech Community and Start-ups and a bit of personal thoughts & theories"
   disqusShortname = "blog-ifraixedes"
   year = 2015
@@ -25,13 +25,17 @@ pygmentsstyle = "colorful"
   twitter_username = "ifraixedes"
   [[params.social_profiles]]
     name = "t"
+    description = "Follow me!!"
     url = "https://twitter.com/ifraixedes"
   [[params.social_profiles]]
     name = "lk"
+    description = "LinkedIn"
     url = "http://linkedin.com/"
   [[params.social_profiles]]
     name = "g+"
+    description = "Follow me!!"
     url = "http://plus.google.com"
   [[params.social_profiles]]
     name = "fb"
+    description = "Facebook"
     url = "http://facebook.com/XXXXXXXXXX"
