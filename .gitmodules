@@ -1,0 +1,3 @@
+[submodule "themes/fraixedes"]
+	path = themes/fraixedes
+	url = git@bitbucket.org:ifraixedes/fraixedes-hugo-theme.git
