@@ -14,6 +14,7 @@ pygmentsstyle = "colorful"
   post = "/post/:filename"
 
 [params]
+  locale = "en_GB"
   subtitle = "Soft. Engineering, dev, hacks & thoughts"
   description = "Opinionated Software Engineering & Dev Stuff, hacks, Tech Community and Start-ups and a bit of personal thoughts & theories"
   disqusShortname = "blog-ifraixedes"
