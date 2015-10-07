@@ -7,6 +7,10 @@ categories = [
   "Software Development",
   "Best Practices"
 ]
+aliases = [
+  "/post/js-test-mocha-chai-sinon-driven-by-example.md",
+  "2015/04/06/js-test-mocha-chai-sinon-driven-by-example/"
+]
 +++
 
 I've decided to write this post after I've helped a friend of mine, <a href="https://twitter.com/hyprstack" target="_blank" rel="nofollow">@hyprstack</a>, to write a 100% coverage test in one of his implementations using "spies" and "stubs".
