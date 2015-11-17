@@ -18,6 +18,7 @@ pygmentsstyle = "colorful"
   subtitle = "Soft. Engineering, dev, hacks & thoughts"
   description = "Opinionated Software Engineering & Dev Stuff, hacks, Tech Community and Start-ups and a bit of personal thoughts & theories"
   disqusShortname = "blog-ifraixedes"
+  googleAnalytics = "UA-54405610-2"
   year = 2015
   authorName = "Ivan Fraixedes"
   authorURL = "http://ivan.fraixed.es"
