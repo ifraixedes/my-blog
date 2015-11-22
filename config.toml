@@ -3,7 +3,7 @@ theme = "fraixedes"
 languageCode = "en-gb"
 copyright = "This works is license under a Creative Commons Attribution-ShareAlike 4.0 International license"
 title = "Ivan Fraixedes' Blog"
-buildfrafts = false
+builddrafts = false
 canonifyurls = false
 pygmentsstyle = "colorful"
 
