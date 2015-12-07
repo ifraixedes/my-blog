@@ -6,6 +6,11 @@ tags = ["HTTP", "Golang", "Software Engineering", "Implementation"]
 categories = [
   "Software Engineering"
 ]
+
+aliases = [
+  "/post/thoughts-about-golang-action-responses.md",
+  "/2015/05/20/thoughts-about-golang-action-responses/"
+]
 +++
 
 A few weeks ago one of my colleagues found a blog post about __<a href="http://openmymind.net/Go-action-responses/" target="_blank">a different approach to implement "actions" HTTP Handlers in Golang</a>__, which differs in how the most of the current Golang Web frameworks do which are heavily inspired in the interface offered by <a href="http://golang.org/pkg/net/http/#HandlerFunc" target="_blank">Golang HTTP official package</a>.

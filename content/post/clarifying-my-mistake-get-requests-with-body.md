@@ -6,6 +6,11 @@ tags = ["API", "Software Engineering", "REST", "Implementation", "HTTP", "Commun
 categories = [
   "Software Engineering"
 ]
+
+aliases = [
+  "/post/clarifying-my-mistake-get-requests-with-body.md",
+  "/2015/04/13/clarifying-my-mistake-get-requests-with-body/"
+]
 +++
 
 Just the same week after I wrote the post <a href="{{< ref "post/thoughts-about-current-apis-implementations.md" >}}" target="_blank">Thoughts about current APIs implementations</a>, I had a discussion, with one of my colleagues, about if sending a body in a __GET Request__ fulfills with the current [HTTP/1.1 Standard](https://tools.ietf.org/html/rfc7231), which it's something that I commented on that post and I mentioned that it was the way to make requests with quite few parameters rather than use POST and not having a very large and ugly URL.

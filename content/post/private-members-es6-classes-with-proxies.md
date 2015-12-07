@@ -6,6 +6,11 @@ tags = ["iojs", "javascript", "es6", "hack"]
 categories = [
   "Software Development"
 ]
+
+aliases = [
+  "/post/private-members-es6-classes-with-proxies.md",
+  "2015/05/06/private-members-es6-classes-with-proxies/"
+]
 +++
 
 ES6 is getting close to its official release, the <a href="http://wiki.ecmascript.org/doku.php?id=harmony:specification_drafts" target="_blank">last Revision, no. 38, is the last Final Draft</a>, however <a href="https://kangax.github.io/compat-table/es6/" target="_blank">Browsers, Runtimes and Compilers/Polyfills</a> haven't implemented all the features that the specification defines.
