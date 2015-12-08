@@ -8,7 +8,7 @@ categories = [
 ]
 
 aliases = [
-  "/post/rack-style-golang-http-handlers.md",
+  "/post/rack-style-golang-http-handlers",
   "/2015/06/03/rack-style-golang-http-handlers/"
 ]
 +++

@@ -8,7 +8,7 @@ categories = [
 ]
 
 aliases = [
-  "/post/generating-openssl-certificates-run-node-https-server.md",
+  "/post/generating-openssl-certificates-run-node-https-server",
   "/2015/04/22/generating-openssl-certificates-run-node-https-server/"
 ]
 +++

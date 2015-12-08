@@ -8,7 +8,7 @@ categories = [
 ]
 
 aliases = [
-  "/golang-performance-slices-structs-and-struct-porinters-analysing-metrics.md",
+  "/post/golang-performance-slices-structs-and-struct-porinters-analysing-metrics",
   "/2015/03/23/golang-performance-slices-structs-and-struct-pointers-analysing-metrics/"
 ]
 +++

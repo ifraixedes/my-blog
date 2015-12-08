@@ -8,7 +8,7 @@ categories = [
 ]
 
 aliases = [
-  "/post/thoughts-about-golang-action-responses.md",
+  "/post/thoughts-about-golang-action-responses",
   "/2015/05/20/thoughts-about-golang-action-responses/"
 ]
 +++

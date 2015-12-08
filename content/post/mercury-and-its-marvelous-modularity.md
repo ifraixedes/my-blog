@@ -9,7 +9,7 @@ categories = [
 ]
 
 aliases = [
-  "/post/mercury-and-its-marvelous-modularity.md",
+  "/post/mercury-and-its-marvelous-modularity",
   "/2015/06/30/mercury-and-its-marvelous-modularity/"
 ]
 +++

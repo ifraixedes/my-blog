@@ -6,6 +6,11 @@ tags = ["NodeJS", "javascript", "github", "hackday", "community", "open source",
 categories = [
   "Open Source"
 ]
+
+aliases = [
+  "/post/gitevents-new-community-open-source-project",
+  "/2015/01/26/gitevents-new-community-open-source-project/"
+]
 +++
 
 Saturday of a couple weeks ago I spent my time in a hackday which ran simultaneously in two places <a href="http://www.meetup.com/NodeBCN/events/219664616/" target="_blank" rel="nofollow">Barcelona</a> hosted by <a href="http://www.meetup.com/NodeBCN/" target="_blank" rel="nofollow">NodeBCN</a> and <a href="https://ti.to/opensauce/github-api-hackday" target="_blank" rel="nofollow">London</a> hosted by <a href="http://lnug.org/" target="_blank">LNUG</a>.

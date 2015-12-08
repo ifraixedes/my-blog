@@ -8,7 +8,7 @@ categories = [
 ]
 
 aliases = [
-  "/post/hanging-around-with-red-black-trees-implementations.md",
+  "/post/hanging-around-with-red-black-trees-implementations",
   "/2015/03/02/hanging-around-with-red-black-trees-implementations"
 ]
 +++
