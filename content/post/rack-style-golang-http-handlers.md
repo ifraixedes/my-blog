@@ -6,6 +6,11 @@ tags = ["HTTP", "Golang", "Software Engineering", "Implementation", "Ruby Rack"]
 categories = [
   "Software Engineering"
 ]
+
+aliases = [
+  "/post/rack-style-golang-http-handlers.md",
+  "/2015/06/03/rack-style-golang-http-handlers/"
+]
 +++
 
 A couple of weeks ago <a href="{{< ref "post/thoughts-about-golang-action-responses.md" >}}" target="_blank">I published a blog post with some thoughts</a> about  __<a href="http://openmymind.net/Go-action-responses/" target="_blank">"actions" HTTP Handlers in Golang</a>__, which specifies an opinionated way to have a handler function signature to define common responses for HTTP applications.

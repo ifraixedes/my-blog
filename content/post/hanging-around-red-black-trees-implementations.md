@@ -6,6 +6,11 @@ tags = ["red-black tree", "trees", "data structures", "computer science", "c"]
 categories = [
   "Data structures"
 ]
+
+aliases = [
+  "/post/hanging-around-with-red-black-trees-implementations.md",
+  "/2015/03/02/hanging-around-with-red-black-trees-implementations"
+]
 +++
 
 This last weekend I've spent my time taking a look one thing that I have in mind for several months ago, to implement a <a href="http://en.wikipedia.org/wiki/Red%E2%80%93black_tree" target="_blank">red-black tree data structure</a> in several languages; obviously not all of them in two days, I usually try to sleep some hours a day ;D

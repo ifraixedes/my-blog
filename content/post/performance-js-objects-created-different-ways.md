@@ -6,6 +6,11 @@ tags = ["NodeJS", "iojs", "web browser", "javascript", "performance", "research"
 categories = [
   "Performance"
 ]
+
+aliases = [
+  "/post/performance-js-objects-created-different-ways.md",
+  "/2015/02/09/performance-js-objects-created-different-ways/"
+]
 +++
 
 In JS (javascript) there are different approaches to create objects which differ in somehow not only syntax but in small things that you can achieve.

@@ -6,6 +6,11 @@ tags = ["general public", "security", "email", "cybercrime"]
 categories = [
   "Security"
 ]
+
+aliases = [
+  "/post/beghind-scene-gumtree-spoofed-email.md",
+  "/2015/02/23/behind-scene-gumtree-spoofed-email/"
+]
 +++
 
 In my previous post, I wrote about <a href="{{< ref "post/basic-hints-indentify-gumtree-spoofed-email.md" >}}" target="_blank">Basic Hints to Identify a Gumtree Spoofed email</a>, which is an introduction and the context of this post.

@@ -6,6 +6,11 @@ tags = ["golang", "conventions", "idioms"]
 categories = [
   "Software Development"
 ]
+
+aliases = [
+  "/post/golang-slices-structs-or-pointers-to-structs-dilemma.md",
+  "/2015/03/09/golang-slices-structs-or-pointers-to-structs-dilemma/"
+]
 +++
 
 <a href="http://golang.org/" target="_blank">Golang</a> is a <a href="http://golang.org/doc/faq#ancestors" target="_blank">C family language</a> which has brought me, again, the ability to use memory references through pointers, even though with some significant differences: <a href="http://golang.org/doc/faq#no_pointer_arithmetic" target="_blank">no pointers arithmetic</a> and <a href="http://golang.org/doc/faq#garbage_collection" target="_blank">garbage collector</a>.

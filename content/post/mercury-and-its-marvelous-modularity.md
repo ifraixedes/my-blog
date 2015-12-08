@@ -7,6 +7,11 @@ tags = ["front-end", "javascript", "virtual-dom", "modularity", "Hackathon"]
 categories = [
   "Frameworks"
 ]
+
+aliases = [
+  "/post/mercury-and-its-marvelous-modularity.md",
+  "/2015/06/30/mercury-and-its-marvelous-modularity/"
+]
 +++
 
 Long time ago, I've discovered <a target="_blank" href="https://github.com/Raynos/mercury" rel="nofollow">Mercury</a>; at that moment, Virtual-DOM started to be hot due the increasing popularity of React, highly influenced by the world wide known Facebook, and I got curious to search if there was anything else which also take advantage of the Virtual-DOM mechanism.

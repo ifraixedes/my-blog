@@ -6,6 +6,11 @@ tags = ["golang", "performance", "profiling", "analysis"]
 categories = [
   "Performance"
 ]
+
+aliases = [
+  "/golang-performance-slices-structs-and-struct-porinters-analysing-metrics.md",
+  "/2015/03/23/golang-performance-slices-structs-and-struct-pointers-analysing-metrics/"
+]
 +++
 
 This is the second part of a two post series about the performance of Golang slices between those which contain structs and those which contain pointers to the same structs and how they are populated through different struct "constructor" and "converter" implementations, hence you need to read the <a href="{{< ref "post/golang-performance-slices-structs-and-struct-pointers-gathering-metrics.md" >}}" target=_blank>previous post</a> to understand this.

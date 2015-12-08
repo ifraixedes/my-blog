@@ -4,6 +4,11 @@ description = "What is about Ivan Fraixedes' blog. I write about Software Develo
 date = "2015-01-19T11:00:00+00:00"
 tags = ["blogging"]
 categories = []
+
+aliases = [
+  "/post/what-about-this.md",
+  "/2015/01/19/what-about-this/"
+]
 +++
 
 I’ve decided to start my second personal blog, I had one long time ago, which I was writing in Spanish, one of my mother tongues, and then I stopped to write when I had a twist in my live, deciding to move to London and swapped in my professional life from IT management and system administration to Software Development again.

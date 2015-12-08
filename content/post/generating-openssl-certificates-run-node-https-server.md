@@ -6,6 +6,11 @@ tags = ["SSL", "HTTPS", "OpenSSL", "programming"]
 categories = [
   "Software Development"
 ]
+
+aliases = [
+  "/post/generating-openssl-certificates-run-node-https-server.md",
+  "/2015/04/22/generating-openssl-certificates-run-node-https-server/"
+]
 +++
 
 The last few days I've had to implement a simple HTTP/HTTPS client wrapper for NodeJS, which returns a <a href="https://promisesaplus.com/" target="_blank">Promise</a>) for each request call and do some basic management for the common body structure that the APIs, which we're building, respond.
