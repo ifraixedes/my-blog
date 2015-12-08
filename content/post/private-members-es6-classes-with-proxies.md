@@ -8,7 +8,7 @@ categories = [
 ]
 
 aliases = [
-  "/post/private-members-es6-classes-with-proxies.md",
+  "/post/private-members-es6-classes-with-proxies",
   "2015/05/06/private-members-es6-classes-with-proxies/"
 ]
 +++

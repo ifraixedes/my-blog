@@ -8,7 +8,7 @@ categories = [
 ]
 
 aliases = [
-  "/post/golang-slices-structs-or-pointers-to-structs-dilemma.md",
+  "/post/golang-slices-structs-or-pointers-to-structs-dilemma",
   "/2015/03/09/golang-slices-structs-or-pointers-to-structs-dilemma/"
 ]
 +++

@@ -6,7 +6,7 @@ tags = ["blogging"]
 categories = []
 
 aliases = [
-  "/post/what-about-this.md",
+  "/post/what-about-this",
   "/2015/01/19/what-about-this/"
 ]
 +++

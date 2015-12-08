@@ -8,7 +8,7 @@ categories = [
 ]
 
 aliases = [
-  "/post/clarifying-my-mistake-get-requests-with-body.md",
+  "/post/clarifying-my-mistake-get-requests-with-body",
   "/2015/04/13/clarifying-my-mistake-get-requests-with-body/"
 ]
 +++

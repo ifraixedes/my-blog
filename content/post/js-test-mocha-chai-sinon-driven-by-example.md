@@ -8,7 +8,7 @@ categories = [
   "Best Practices"
 ]
 aliases = [
-  "/post/js-test-mocha-chai-sinon-driven-by-example.md",
+  "/post/js-test-mocha-chai-sinon-driven-by-example",
   "2015/04/06/js-test-mocha-chai-sinon-driven-by-example/"
 ]
 +++

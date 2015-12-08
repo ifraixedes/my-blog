@@ -7,7 +7,7 @@ categories = [
   "Software Development"
 ]
 aliases = [
-  "/post/3-little-things-nodejs-help-to-refactor.md",
+  "/post/3-little-things-nodejs-help-to-refactor",
   "/2015/02/02/3_little_things_nodejs_help_to_refactor/"
 ]
 +++

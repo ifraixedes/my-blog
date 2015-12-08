@@ -8,7 +8,7 @@ categories = [
 ]
 
 aliases = [
-  "/post/performance-js-objects-created-different-ways.md",
+  "/post/performance-js-objects-created-different-ways",
   "/2015/02/09/performance-js-objects-created-different-ways/"
 ]
 +++

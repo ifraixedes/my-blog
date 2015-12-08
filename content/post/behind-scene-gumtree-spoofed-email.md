@@ -8,7 +8,7 @@ categories = [
 ]
 
 aliases = [
-  "/post/beghind-scene-gumtree-spoofed-email.md",
+  "/post/beghind-scene-gumtree-spoofed-email",
   "/2015/02/23/behind-scene-gumtree-spoofed-email/"
 ]
 +++
