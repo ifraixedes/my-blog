@@ -6,6 +6,7 @@ title = "Ivan Fraixedes' Blog"
 builddrafts = false
 canonifyurls = false
 pygmentsstyle = "colorful"
+googleAnalytics = "UA-54405610-2"
 
 [blackfriday]
   fractions = false
@@ -18,7 +19,6 @@ pygmentsstyle = "colorful"
   subtitle = "Soft. Engineering, dev, hacks & thoughts"
   description = "Opinionated Software Engineering & Dev Stuff, hacks, Tech Community and Start-ups and a bit of personal thoughts & theories"
   disqus_shortname = "blog-ifraixedes"
-  google_analytics = "UA-54405610-2"
   year = 2015
   author_name = "Ivan Fraixedes"
   author_url = "http://ivan.fraixed.es"
