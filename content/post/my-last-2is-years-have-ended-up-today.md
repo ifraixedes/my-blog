@@ -1,10 +1,9 @@
 +++
 categories = ["Business"]
 date = "2015-12-21T20:57:48Z"
-description = ""
 tags = ["startups"]
 title = "My Last 2is Years Have Ended Up Today"
-
+description = "After two years the startup where I worked had to scale down the workforce, this is the my official announcement about this sad end"
 +++
 
 This is short post to announce the end of my last 2 years something professional path.
