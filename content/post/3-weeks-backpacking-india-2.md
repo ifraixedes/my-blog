@@ -7,7 +7,7 @@ title = "3 weeks backpacking India: acclimatization"
 social_image = "https://s-media-cache-ak0.pinimg.com/736x/7b/23/6d/7b236d56950f0df1b1ba8ecae8e206cf.jpg"
 +++
 
-Obviously when I just reached the hotel and agreed with the price that I knew from Internet, I took a shower and fell asleep for 1.5 hours due my journey which was 36 hours long besides Mumbai weather which is very humid and hot, so you could already imagine that after [I walked from the airport to the hotel](3-weeks-backpacking-india-1#arriving).
+Obviously when I just reached the hotel and agreed with the price that I knew from Internet, I took a shower and fell asleep for 1.5 hours due my journey which was 36 hours long besides Mumbai weather which is very humid and hot, so you could already imagine that after [I walked from the airport to the hotel]({{<ref "post/3-weeks-backpacking-india-1.md#arriving">}}).
 
 ## First day
 
