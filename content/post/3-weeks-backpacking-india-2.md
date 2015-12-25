@@ -53,5 +53,14 @@ The fourth day I moved to my friend's flat who lives in {{<ext-link "Bandra" "ht
 
 At the beginning when I realized that I visited Mumbai in 2 days I thought that I was going to waste my time however I don't feel after the experience that I did because those days I could learn how a few things work in India, which ended up to be quite important for my travel; moreover I solved the problem with the mobile phone line because if I had moved to other place I hadn't been able to sort it out.
 
-
 Continue reading the next post to know the rest of the travel; drop me a comment if you are curious about something that I haven't written.
+
+By the way, I recorded a totally mobile crafted videos during those days, so give them a watch
+
+{{<div class="video-group">}}
+{{<youtube id="YTEh3415C-E" class="video-row">}} {{<youtube id="71-3XgaE9I8" class="video-row">}} {{<youtube id="4c8-dWFGIB0" class="video-row">}}
+{{</div>}}
+{{<div class="video-group">}}
+{{<youtube id="M-YLM7ioF9g" class="video-row">}} {{<youtube id="4uzf7wxjQFk" class="video-row">}} {{<youtube id="gEYKwMTwktI" class="video-row">}}
+{{</div>}}
+
