@@ -29,7 +29,7 @@ If you've already read his blog post or you've also known from any other source,
 
 ## ES6 Proxies
 
- __Proxies is a ES6 mechanism that allows to register traps over an object__, so they allows to specify custom behaviour for fundamental object operations (assignment, iteration, property lookup, etc).
+ __Proxies is a ES6 mechanism that allows to register traps over an object__, so they allows to specify custom behavior for fundamental object operations (assignment, iteration, property lookup, etc).
 
  Proxies is a less mature ES6 feature than classes, at least for the environment that I've used in this post which you'll read below.
 
@@ -94,7 +94,7 @@ Before going to see some of the approaches that I've come up, you must know that
 
 #### Proxify the Base Class (not working solution)
 
-I already knew that it wasn't probably going to work, because if you know a little bit how Classes works or you inspect a very slightly them, you'll see that __a ES6 Class it's an object with Function prototype__, besides, Proxies only trap the calls to the target object, so wrapping a Class with a Proxy will protect the Class, not the instances create from them; however I gave a try because never hurt and you make sure that your thoughts are right.
+I already knew that it wasn't probably going to work, because if you know a little bit how Classes works or you inspect a very slightly them, you'll see that __a ES6 Class it's an object with Function prototype__, besides, Proxies only trap the calls to the target object, so wrapping a Class with a Proxy will protect the Class, no the instances created from them; however I gave a try because never hurt and you make sure that your thoughts are right.
 
 {{< highlight js >}}
 // Let's try to protect class object
@@ -164,7 +164,7 @@ Javascript's constructors  return `this` object if they don't have a return stat
 
 In ES6, Classes are Functions and constructors are allowed to have return statements and their behaviour, is totally the same than in ES5, according Axel, they have the same behaviour for [backwards compatibility](http://www.2ality.com/2015/02/es6-classes-final.html#safety_checks).
 
-Bear in mind that concept, we can do the following:
+Bearing in mind that concept, we can do the following:
 
 {{< highlight js >}}
 // However it's painful, having to wrap in a proxy every single instance of a class
