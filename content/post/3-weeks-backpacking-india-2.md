@@ -3,7 +3,7 @@ categories = ["Travels"]
 date = "2015-12-25T10:00:00+00:00"
 description = "My 3 weeks backpacking adventure in India with a tight budget to enjoy the contrast than luxury: first week in Mumbai"
 tags = ["backpacking", "travels"]
-title = "3 weeks backpacking India: acclimatization"
+title = "3 Weeks Backpacking India: Acclimatization"
 social_image = "https://s-media-cache-ak0.pinimg.com/736x/7b/23/6d/7b236d56950f0df1b1ba8ecae8e206cf.jpg"
 +++
 
@@ -63,4 +63,3 @@ By the way, I recorded a totally mobile crafted videos during those days, so giv
 {{<div class="video-group">}}
 {{<youtube id="M-YLM7ioF9g" class="video-row">}} {{<youtube id="4uzf7wxjQFk" class="video-row">}} {{<youtube id="gEYKwMTwktI" class="video-row">}}
 {{</div>}}
-

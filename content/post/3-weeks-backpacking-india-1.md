@@ -3,7 +3,7 @@ categories = ["Travels"]
 date = "2015-12-20T10:00:00+00:00"
 description = "My 3 weeks backpacking adventure in India with a tight budget to enjoy the contrast than luxury: the reasons and my arrival"
 tags = ["backpacking", "travels"]
-title = "3 weeks backpacking India: arriving"
+title = "3 Weeks Backpacking India: Arriving"
 social_image = "https://s-media-cache-ak0.pinimg.com/736x/bd/52/6d/bd526d573eab86a25c53f0c7e7e33c1e.jpg"
 +++
 
