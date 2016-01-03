@@ -57,9 +57,9 @@ Continue reading the next post to know the rest of the travel; drop me a comment
 
 By the way, I recorded a totally mobile crafted videos during those days, so give them a watch
 
-{{<div class="video-group">}}
+<div class="video-group">
 {{<youtube id="YTEh3415C-E" class="video-row">}} {{<youtube id="71-3XgaE9I8" class="video-row">}} {{<youtube id="4c8-dWFGIB0" class="video-row">}}
-{{</div>}}
-{{<div class="video-group">}}
+</div>
+<div class="video-group">
 {{<youtube id="M-YLM7ioF9g" class="video-row">}} {{<youtube id="4uzf7wxjQFk" class="video-row">}} {{<youtube id="gEYKwMTwktI" class="video-row">}}
-{{</div>}}
+</div>
