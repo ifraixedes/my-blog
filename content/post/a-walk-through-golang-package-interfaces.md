@@ -1,6 +1,6 @@
 +++
 date = "2016-01-06T08:24:56Z"
-title = "A Walk through golang package interfaces"
+title = "A Walk through Golang Package Interfaces"
 description = "Golang interfaces are one of the most powerful feature of the language, their simplicity is charming; don't miss those ones available in the language package"
 tags = ["golang", "programming", "programming-languages"]
 categories = ["Software Development"]
