@@ -10,14 +10,14 @@ categories = [
 social_image = "https://pbs.twimg.com/profile_images/3766360947/b73301d19e3fd4a1f9bced47ede203a1.png"
 +++
 
-Last Thursday (2 of October of 2015), I gave a talk at <a href="http://barcelonajs.org/" target="_blank">__BarcelonaJS group__</a> about <a href="https://google.github.io/lovefield/" target="_blank">__Lovefield__, a cross-browser SQL-Like relation query engine; here I left the slides that I created for that purpose.
+Last Thursday (1st of October of 2015), I gave a talk at <a href="http://barcelonajs.org/" target="_blank">__BarcelonaJS group__</a> about <a href="https://google.github.io/lovefield/" target="_blank">__Lovefield__, a cross-browser SQL-Like relation query engine; here I left the slides that I created for that purpose.
 
 <div style="margin: auto; text-align: center;">
   <iframe width="750" height="563" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="/slides/bcnjs-201510/"
     <p>Your browser doesn't support iframes</p>
   </iframe>
   <br>
-  <a href="/slides/bcnjs-201510/" target="_blank">See these slides in a single page & don't forget to press "p" to see the notes which I wrote</a>
+  <a href="/slides/bcnjs-201510/" target="_blank">See these slides in a single page & don't forget to press "p" to see the notes which I've written</a>
 </div>
 <br>
 
