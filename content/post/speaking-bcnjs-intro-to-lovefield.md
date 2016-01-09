@@ -2,7 +2,7 @@
 title = "Speaking at @BcnJS: Introduction to Lovefield"
 description = "The slides & notes of my talk at Barcelona JS group introducing Lovefiel: a cross-browser SQL-Like relation query engine"
 date = "2015-10-05T01:18:10+01:00"
-tags = ["fronte-end", "sql", "javascript", "database", "relational-database"]
+tags = ["frontend", "sql", "javascript", "database", "relational-database"]
 categories = [
   "talks",
   "Software Development"

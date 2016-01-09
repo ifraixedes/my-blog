@@ -3,7 +3,7 @@ title = "Mercury & its marvelous modularity"
 description = "After I took a look to Mercury README long time ago, I've got my hands dirty with it during a 24 hours Hackathon, so here you can read my thoughts"
 date = "2015-06-30T11:00:00+00:00"
 slug = "mercury-and-its-marvelous-modularity"
-tags = ["front-end", "javascript", "virtual-dom", "modularity", "Hackathon"]
+tags = ["frontend", "javascript", "virtual-dom", "modularity", "Hackathon"]
 categories = [
   "Frameworks"
 ]
@@ -67,7 +67,7 @@ Being at that level of modularity allows to browser the code and find very easil
 
 As I've mentioned before, the implementation that I've done with <a target="_blank" href="https://github.com/Raynos/mercury">Mercury</a> was for a topic of a hackathon, because I always want to have some reward of my time, in this case at the end, only, has been the learning one.
 
-The application isn't fancy at all, in terms of any thing, I had to do all the implementation, server, a little bit the styling and the front-end in Mercury, so I had to learn it as well.
+The application isn't fancy at all, in terms of any thing, I had to do all the implementation, server, a little bit the styling and the frontend in Mercury, so I had to learn it as well.
 
 I got the first issues that everybody may have which are how you organise your code and make it more modular to avoid a massive large scripts, I did some splitting and no a lot of more for two reasons:
 
