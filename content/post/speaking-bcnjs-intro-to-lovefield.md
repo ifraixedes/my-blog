@@ -1,6 +1,6 @@
 +++
-title = "Speaking at @BcnJS: Introduction to Lovefield"
-description = "The slides & notes of my talk at Barcelona JS group introducing Lovefiel: a cross-browser SQL-Like relation query engine"
+title = "Speaking at BarcelonaJS: Introduction to Lovefield"
+description = "Slides, notes & source code of my talk introductory talk to Lovefiel, a cross-browser SQL-Like relation query engine, at Barcelona JS group"
 date = "2015-10-05T01:18:10+01:00"
 tags = ["frontend", "sql", "javascript", "database", "relational-database"]
 categories = [
@@ -17,7 +17,7 @@ Last Thursday (1st of October of 2015), I gave a talk at <a href="http://barcelo
     <p>Your browser doesn't support iframes</p>
   </iframe>
   <br>
-  <a href="/slides/bcnjs-201510/" target="_blank">See these slides in a single page & don't forget to press "p" to see the notes which I've written</a>
+  <a href={{<ref "slides/bcnjs-201510.md" >}} target="_blank">See these slides in a single page & don't forget to press "p" to see the notes which I've written</a>
 </div>
 <br>
 
