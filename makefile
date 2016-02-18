@@ -24,7 +24,7 @@ prod-similuation:
 build: clean
 	hugo
 	@rm public/styles/*.css
-	@minify -f -o public/styles/main.css themes/fraixedes/static/styles/main.css
+	@minify -o public/styles/main.css themes/fraixedes/static/styles/main.css
 
 clean:
 	rm -rf public dev
