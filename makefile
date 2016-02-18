@@ -1,5 +1,5 @@
 
-.PHONY: deps
+.PHONY: defaul build deps dev prod-simulation build clean
 
 defaul: build
 
@@ -8,7 +8,7 @@ deps:
 
 dev: clean
 	@if [ $$USER = 'vagrant' ]; then \
-		HUGO_DEV=true hugo server -wD --bind=0.0.0.0 --baseURL=http://$(shell ifconfig eth1 | grep -E 'addr:[0-9.]*' -o -m 1  | cut -d ':' -f 2) -d dev;\
+		HUGO_DEV=true hugo server -wD --bind=0.0.0.0 --baseURL=http://$(shell ifconfig eth2 | grep -E 'addr:[0-9.]*' -o -m 1  | cut -d ':' -f 2) -d dev;\
 	else \
 		HUGO_DEV=true hugo server -wD -d dev ;\
 	fi
@@ -28,5 +28,3 @@ build: clean
 
 clean:
 	rm -rf public dev
-
-minify-css:
