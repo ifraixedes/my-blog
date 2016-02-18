@@ -6,6 +6,7 @@ tags = ["performance", "NodeJS", "javascript", "soft dev", "JS2015"]
 categories = [
   "Software Development"
 ]
+social_image = "https://s-media-cache-ak0.pinimg.com/originals/99/49/77/994977c48fde58ac674a2d05ba5a5efb.png"
 +++
 
 ES2015 Arrow functions are offered natively on NodeJS since while ago; they look as a convenient way to write anonymous functions than using function expressions, because they have a {{<ext-link "shorter syntax, but they also bind `this` value lexically" "https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Functions/Arrow_functions">}}, which is the thing that got my attention to do this short performance test to know if they run slower, faster or equally than function expressions.
