@@ -32,7 +32,7 @@ In this post, I'm going to mention 3 little things that I've learnt of refactori
 
 One of the common implementation pattern that I use a lot in NodeJS is creating scripts that expose a function which receives only one parameter, an options object, e.g.
 
-{{< highlight js >}}
+{{<highlight js>}}
   // @param {Object} opts
   module.exports = function (opts) {
     // Do whatever
@@ -45,7 +45,7 @@ One of the common implementation pattern that I use a lot in NodeJS is creating 
   function tell(somebody, message) {
     return 'Hey ' + somebody + ', Ivan wants to tell you: ' + message;
   }
-{{< /highlight >}}
+{{</highlight>}}
 
 This pattern help me to prototype implementations because I can add more functionalities which require some options without changing the expose signature of the function, nonetheless don't take me how it has to be used everywhere or keep it as the pattern to use to expose any API.
 
@@ -55,7 +55,7 @@ One solution for that is to add a block comment on top of the function declarati
 
 A second solution, which is in my preferences, is extracting the options parameters just at the beginning of the function, just after you make all the validations of the required options or having a function with that purpose, which returns an opts object with the required values if opts pass the needed validations; you may already know what I mean, nonetheless let's see an example:
 
-{{< highlight js >}}
+{{<highlight js>}}
 // @param {Object} opts
 module.exports = function (opts) {
   // Having a helper function for the validations is
@@ -76,7 +76,7 @@ module.exports = function (opts) {
 function tell(greeting, teller, somebody, message) {
   return greeting + ' ' + somebody + ', ' + teller + ' wants to tell you: ' + message;
 }
-{{< /highlight >}}
+{{</highlight>}}
 
 If the function is used internally and the options values are set by our implementation, validations are very basic, then extracting is clearer; hence as a rule of thumb keep the extraction in only one place because, with a quick glance, you can figure out in the future what option parameters the function needs.
 
@@ -108,24 +108,24 @@ Because route can be mounted by other <a href="http://expressjs.com/4x/api.html#
 
 For example, having this two routes in a router:
 
-{{< highlight js >}}
+{{<highlight js>}}
   router.get('/user/:id', function (req, res, next) { ... });
   router.get('/group/:id', function (req, res, next) { ... })
-{{< /highlight >}}
+{{</highlight>}}
 
 Then each route view has a link to each other, e.g.
 
 * user view
 
-{{< highlight html >}}
+{{<highlight html>}}
   <a href="group/10">NodeJS developers</a>
-{{< /highlight >}}
+{{</highlight>}}
 
 * group view
 
-{{< highlight html >}}
+{{<highlight html>}}
   <a href="user/0">Group Administrator</a>
-{{< /highlight >}}
+{{</highlight>}}
 
 Then I got in troubles because the links don't work, because if you are, for example, in a users view, your browser url could be something `http://communi.ty/user/10`, then when you press the link to the group "NodeJS developers" your browser will request `http://communi.ty/user/group/10`, then the URL does not match with the "group" route of the Router.
 
