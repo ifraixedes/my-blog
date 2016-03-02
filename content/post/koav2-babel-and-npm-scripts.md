@@ -33,7 +33,7 @@ Assuming that you have ran `npm init` in a folder and you're in your terminal on
 
 Then setup babel creating a `.babelrc` file with this content:
 
-```json
+{{<highlight json>}}
 {
   "env": {
     "development": {
@@ -42,18 +42,18 @@ Then setup babel creating a `.babelrc` file with this content:
     }
   }
 }
-```
+{{</highlight>}}
 
 Then you can create, into the property name `scripts` of `package.json`, something like this:
 
-```json
-  ....
-  scripts: {
+{{<highlight json>}}
+{
+  "scripts": {
     "dev": "nodemon --exec npm run -s serve",
     "serve": "babel-node -- src/server.js"
-  },
-  ...
-```
+  }
+}
+{{</highlight>}}
 
 In case that you use {{<ext-link "eslint" "http://eslint.org/">}} to lint your code, to avoid linter issues with async/await functions you have to install it and babel plugin
 
@@ -63,9 +63,11 @@ then set in `.eslintrc` file the property `"parser": "babel-eslint"`. Bear in mi
 
 and you can also setup a watch mode in package.json `scripts` property
 
-```json
+{{<highlight json>}}
+{
   "lint-w": "nodemon --watch src -e js --exec eslint ."
-```
+}
+{{</highlight>}}
 
 then you can run the "dev" script target in one terminal tab and in other this one and enjoy developing a Koa v2 app, with asyn/await function with live restart and live linting.
 
