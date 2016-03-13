@@ -275,10 +275,9 @@ All these outputs files are the files that we'll use to analyse the profiler dat
 
 Golang has natively support to build benchmarks and packages to profile the CPU and Heap, so those tasks are not tedious to use as may be with another language.
 
-Here I've used them to get profiling metrics of different ways to achieve the same, and in my next post I will show how to use pprof with those outputs to analyse the profiler data and know which one performs better, therefore, stay tuned.
+Here I've used them to get profiling metrics of different ways to achieve the same, on the post [Profiling Golang Slices of Structs vs Pointers: Analyzing Metrics]{{<ref "post/golang-performance-slices-structs-and-struct-pointers-analysing-metrics.md">}} you can read how I analyze the outputs of the benchmarks and how I use pprof to know the % of CPU used by the internal function calls, so don't miss to have a look onto it.
 
 By the way, __all the code is available in <a href="http://goo.gl/tC60Yl" target="_blank">this gist</a>__
-
 
 
 I hope that it has been interesting.
