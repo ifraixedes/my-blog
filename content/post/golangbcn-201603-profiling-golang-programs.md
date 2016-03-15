@@ -55,7 +55,7 @@ And we are ready to open `cpu.svg` and see where are our bottlenecks.
 
 A service is an application that, ideally, will run forever, exposing an interface which other applications (clients) can request to perform the exposed operations. Due they behavior, they have to offer an interface to get the profile data or they have to export it on a defined intervals of time.
 
-Golang has the package {{<ext-link "`net/http/pprof`" "https://golang.org/pkg/net/http/pprof/">}} which allows to expose, automatically, a few HTTP endpoints to collect the profile data, if the service has an http server, otherwise we can create one HTTP only for that purpose.
+Golang has the package `{{<ext-link "net/http/pprof" "https://golang.org/pkg/net/http/pprof/">}}` which allows to expose, automatically, a few HTTP endpoints to collect the profile data, if the service has an http server, otherwise we can create one HTTP only for that purpose.
 
 The exposed endpoints are listed under `/debug/pprof/` path and to collect the profile data we execute `pprof` pointing to the specific path, for example
 
@@ -66,7 +66,12 @@ The exposed endpoints are listed under `/debug/pprof/` path and to collect the p
 Each of those calls generate an output profile data file as we has got from the benchmark and with those you can use `pprof` in the same way to analyze the data.
 
 
-Related links:
+This is all for now!
+
+Thanks for reading it
+
+---
+Related links
 
 * The main reference about profiling Go programs posted in the Golang official Blog: {{<ext-link "Profiling Go Programs" "http://blog.golang.org/profiling-go-programs">}}
 * I wrote a couple of post in my early days in Golang; I used the profiler to drop my curiosity about the performance of values and pointers passed as a parameter, so you can read other place how to use the profiler, {{<ext-link "gathering the metrics" "http://blog.fraixed.es/post/golang-performance-slices-structs-and-struct-pointers-gathering-metrics/">}} and {{<ext-link "analyzing them" "http://blog.fraixed.es/post/golang-performance-slices-structs-and-struct-pointers-analysing-metrics/">}}
