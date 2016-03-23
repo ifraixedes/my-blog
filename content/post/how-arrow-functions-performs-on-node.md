@@ -9,13 +9,17 @@ categories = [
 social_image = "https://s-media-cache-ak0.pinimg.com/originals/99/49/77/994977c48fde58ac674a2d05ba5a5efb.png"
 +++
 
-ES2015 Arrow functions are offered natively on NodeJS since while ago; they look as a convenient way to write anonymous functions than using function expressions, because they have a {{<ext-link "shorter syntax, but they also bind `this` value lexically" "https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Functions/Arrow_functions">}}, which is the thing that got my attention to do this short performance test to know if they run slower, faster or equally than function expressions.
+ES2015 Arrow functions are offered natively on NodeJS since while ago; they look as __a convenient way to write anonymous functions than using function expressions__, because they have a {{<ext-link "shorter syntax, but they also bind `this` value lexically" "https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Functions/Arrow_functions">}}, which is the thing that got my attention to do this short performance test to know if they run slower, faster or equally than function expressions.
 
 As I mentioned in several posts, performance may be very important, but the most of the times, it's quite less important than other things, as having a clean, simple and easy to understand and maintain code base which may performs not that fast as another one without those properties, or other reasons as using implementations (a.k.a frameworks) which are more generic so they allow to build fast, with less resources and many people can start to work quick because are well know by a certain amount of them.
 
-I always consider the things mentioned above, however I'm not lazy if I have to type a bit more to get better performance without compromising any other important property, so in this case I would say that if arrow functions perform slower than function expressions, I would follow using function expressions because I don't really mind to type the word `function`, moreover that I think that in some situations the line of code is more clear having the word function than the shorter syntax of the arrow functions, nonetheless that's out of the scope of this post.
+I always consider the things mentioned above, however I'm not lazy if I have to type a bit more to get better performance without compromising any other important property, so in this case I would say that if arrow functions perform slower than function expressions, I would follow using function expressions because I don't really mind to type the word `function`, moreover that I think that in some situations the line of code is more clear having the keyword `function` than the shorter syntax of the arrow functions, nonetheless that's out of the scope of this post.
 
 ## Performance test
+
+Note, my purpose here is only __to analyze those situations where the anonymous functions used don't access to `this` pointer__, because the most of the times that I've seen replacing functions expressions by arrow functions are on those situations and my worries are if arrow functions perform slower due the fact that they lexically bind `this` pointer.
+
+I'm not analyzing those ones which the functions access to the lexical scope where functions expression should do through `bind` or assigning lexical `this` to a variable defined in the lexical scope, which at least, {{<ext-link "a few years ago, `bind` didn't look as a good options from the performance point of view and we should see what happen now with the arrow functions" "http://stackoverflow.com/questions/17638305/why-is-bind-slower-than-a-closure">}}, however that's out of the main goal of this post.
 
 To know the different running times between then I wrote a small script using {{<ext-link "Benchmark.js" "https://benchmarkjs.com/">}} with {{<ext-link "Microtime" "https://github.com/wadey/node-microtime">}} which looks like
 
@@ -90,3 +94,7 @@ As you can see, the difference is negligible.
 Arrow functions and function expressions have the same performance execution, at least in Node.
 
 Best!
+
+---
+
+I've updated this post on 23/03/2016 to clarify what I wanted to analyze related arrow functions
