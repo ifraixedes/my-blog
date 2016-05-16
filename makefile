@@ -4,6 +4,7 @@
 defaul: build
 
 deps:
+	@go get -v github.com/spf13/hugo
 	@go get github.com/tdewolff/minify/cmd/minify
 
 dev: clean
