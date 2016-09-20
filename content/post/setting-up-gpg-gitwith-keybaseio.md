@@ -37,11 +37,18 @@ You can run the agent manually each time that you login or do the same adding th
 
 In my case I use {{<ext-link "Z shell (zsh)" "https://en.wikipedia.org/wiki/Z_shell">}} and {{<ext-link "Oh My ZSH!" "http://ohmyz.sh/">}} and I use the {{<ext-link "plugin that it provides for running the `gnupg-agent`" "https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/plugins/gpg-agent/gpg-agent.plugin.zsh">}}, which you can run adding to the `plugins` variable list `gpg-agent`, for example mine, looks like
 
-```sh
+{{<highlight sh>}}
 plugins=(ssh-agent zsh-syntax-highlighting gpg-agent)
-```
+{{</highlight>}}
 
-**if you're using gnpg-agent version 2** then you don't need to modify your `rc` file because you don't need to execute the agent, it will be executed automatically at OS the startup time as any other service; check it with `gpg-agent --version`
+**if you're using gnpg-agent version 2** then you don't need to use the _Oh My ZSH!_ plugin because the agent will be executed automatically at OS the startup time as any other service; check it with `gpg-agent --version`, but you may have to assign and export some variable because _gpg_ client can connect to the agent version 2, although for unknown reasons, sometimes I haven't needed to export any of them to make it work and sometimes I have to export on or both.
+
+{{<highlight sh>}}
+export SSH_AUTH_SOCK=$HOME/.gnupg/S.gpg-agent.ss
+export GPG_TTY=$(TTY)
+{{</highlight>}}
+
+If doesn't work without them, getting an error message about the agent connection then, export `GPG_TTY` and if it persists, then export the both.
 
 
 ### Configure it
