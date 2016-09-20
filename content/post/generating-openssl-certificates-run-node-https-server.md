@@ -35,7 +35,8 @@ Hence, first we have to __create the CA certificate__, in this case with one, th
 To generate it with OpenSSL, we just use <a href="https://www.openssl.org/docs/apps/req.html" target="_blank">`req` utility</a>
 
 ```
-openssl req -batch -newkey rsa:2048 -nodes -keyout root-ca.key -days 3650 -x509 -out root-ca.crt
+openssl req -batch -newkey rsa:2048 -nodes -keyout \
+  root-ca.key -days 3650 -x509 -out root-ca.crt
 ```
 
 Let's clarify some of the used options:
@@ -48,7 +49,8 @@ Let's clarify some of the used options:
 Now, we have our CA, then let's create the certificate that we need for our server; first we have to create a __certificate request__ with our private key; I'd just like to remind you that your private keys are generate by yourself and __never are sent anywhere__, which is the basis of a PKI (Public Key Infrastructure), share your public key and non-disclose never your private key.
 
 ```
-openssl req -newkey rsa:2048 -batch -nodes -config openssl.cnf -out localhost.csr -keyout localhost.key
+openssl req -newkey rsa:2048 -batch -nodes \
+  -config openssl.cnf -out localhost.csr -keyout localhost.key
 ```
 
 Let's clarify some of the used options for this, as well
@@ -70,7 +72,8 @@ distinguished_name     = req_distinguished_name
 And finally, let's give the certificate request to the CA to generate the certificate for our server through <a href="https://www.openssl.org/docs/apps/x509.html" target="_blank">`x509` utility</a>
 
 ```
-openssl x509 -req -CAkey root-ca.key -CA root-ca.crt -CAcreateserial -in localhost.csr -days 3650 -out localhost.crt
+openssl x509 -req -CAkey root-ca.key -CA root-ca.crt \
+  -CAcreateserial -in localhost.csr -days 3650 -out localhost.crt
 ```
 
 And the options clarification
