@@ -2,6 +2,7 @@ baseurl = "http://blog.fraixed.es"
 theme = "archie"
 languageCode = "en-us"
 copyright = "This works is license under a Creative Commons Attribution-ShareAlike 4.0 International license"
+title = "Ivan Fraixedes' Blog"
 
 # Content
 builddrafts = false
@@ -16,7 +17,6 @@ paginate = 1000
 post = "/post/:filename"
 
 [params]
-title = "Ivan Fraixedes' Blog"
 subtitle = "Software / System Engineering, hacks & personal thoughts"
 description = "Opinionated Software Engineering & Dev Stuff, hacks, Tech Community and Start-ups and a bit of personal thoughts & theories"
 author = "Ivan Fraixedes"
