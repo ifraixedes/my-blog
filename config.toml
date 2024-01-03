@@ -2,7 +2,6 @@ baseurl = "http://blog.fraixed.es"
 theme = "archie"
 languageCode = "en-us"
 copyright = "This works is license under a Creative Commons Attribution-ShareAlike 4.0 International license"
-title = "Ivan Fraixedes' Blog"
 
 # Content
 builddrafts = false
@@ -17,10 +16,13 @@ paginate = 1000
 post = "/post/:filename"
 
 [params]
+title = "Ivan Fraixedes' Blog"
+subtitle = "Software / System Engineering, hacks & personal thoughts"
+description = "Opinionated Software Engineering & Dev Stuff, hacks, Tech Community and Start-ups and a bit of personal thoughts & theories"
 author = "Ivan Fraixedes"
+
 mode ="toggle" # color-mode → light,dark,toggle or auto
 useCDN = false # don't use CDNs for fonts and icons, instead serve them locally.
-subtitle = "Software / System Engineering, hacks & personal thoughts"
 mathjax = false # disable MathJax support
 katex = false # disable KaTeX support
 
@@ -38,30 +40,3 @@ katex = false # disable KaTeX support
   name = "LinkedIn"
   icon = "linkedin"
   url = "https://bit.ly/ifraixedes_blog_lk"
-
-# [params]
-#   locale = "en_US"
-#   subtitle = "Soft. Engineering, dev, hacks & thoughts"
-#   description = "Opinionated Software Engineering & Dev Stuff, hacks, Tech Community and Start-ups and a bit of personal thoughts & theories"
-#   disqus_shortname = "blog-ifraixedes"
-#   year = 2015
-#   author_name = "Ivan Fraixedes"
-#   author_url = "http://ivan.fraixed.es"
-#   social_image = "https://avatars0.githubusercontent.com/u/1731633"
-#   twitter_username = "ifraixedes"
-#   [[params.social_profiles]]
-#     name = "t"
-#     description = "Follow me!!"
-#     url = "https://twitter.com/ifraixedes"
-#   [[params.social_profiles]]
-#     name = "lk"
-#     description = "LinkedIn"
-#     url = "https://uk.linkedin.com/in/ifraixedes"
-#   [[params.social_profiles]]
-#     name = "g+"
-#     description = "Follow me!!"
-#     url = "https://plus.google.com/+IvanFraixedes"
-
-[services]
-  [services.googleAnalytics]
-  # ID = "UA-54405610-2" # Disabled temporary, although I'm not thinking to enable it back
