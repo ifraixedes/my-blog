@@ -1,3 +1,5 @@
-public
-dev
 .DS_Store
+.hugo_build.lock
+
+dev
+public
