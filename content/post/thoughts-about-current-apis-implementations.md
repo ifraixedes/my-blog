@@ -2,9 +2,9 @@
 title = "Thoughts about current APIs implementations"
 description = "After I've been consuming several REST APIs for a while I've found that some of them fails in small things which aren't just consumer preferences"
 date = "2015-03-30T11:00:00+00:00"
-tags = ["API", "Software Engineering", "REST", "Implementation", "HTTP", "Communication Protocol", "Service"]
+tags = ["api", "http", "standard"]
 categories = [
-  "Software Engineering"
+  "software engineering"
 ]
 +++
 

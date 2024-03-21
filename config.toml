@@ -17,8 +17,8 @@ paginate = 1000
 post = "/post/:filename"
 
 [params]
-subtitle = "Software / System Engineering, hacks & personal thoughts"
-description = "Opinionated Software Engineering & Dev Stuff, hacks, Tech Community and Start-ups and a bit of personal thoughts & theories"
+subtitle = "Software / System Engineering & personal random thoughts / theories"
+description = "Opinionated Software Engineering & Development, Tech Community, Start-ups, personal random thoughts & theories, and whatever I'd like to write about ;P"
 author = "Ivan Fraixedes"
 
 mode ="toggle" # color-mode → light,dark,toggle or auto

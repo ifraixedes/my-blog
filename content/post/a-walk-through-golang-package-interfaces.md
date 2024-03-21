@@ -2,9 +2,11 @@
 date = "2016-01-06T08:24:56Z"
 title = "A Walk through Golang Package Interfaces"
 description = "Golang interfaces are one of the most powerful feature of the language, their simplicity is charming; don't miss those ones available in the language package"
-tags = ["golang", "programming", "programming-languages"]
-categories = ["Software Development"]
 social_image = "https://s-media-cache-ak0.pinimg.com/736x/c1/53/6e/c1536ec3a9bc88e403f0f7e2d6d72557.jpg"
+tags = ["golang"]
+categories = [
+  "software development"
+]
 +++
 
 Golang interface is one of things that people love due its simplicity and how they make possible to create small things which can be composed to create more complex ones.

@@ -2,9 +2,9 @@
 title = "3 Little Things in NodeJS which Help When You Have to Refactor"
 description = "Software development involves refactoring in it own nature, applying some small things can help you to have an easy and painless refactoring process"
 date = "2015-02-02T00:00:00+00:00"
-tags = ["refactoring", "NodeJS", "javascript", "expressjs", "prototyping", "soft dev"]
+tags = ["refactoring", "nodejs", "javascript", "prototyping" ]
 categories = [
-  "Software Development"
+  "software development"
 ]
 aliases = [
   "/post/3-little-things-nodejs-help-to-refactor",

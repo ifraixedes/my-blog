@@ -1,10 +1,11 @@
 +++
-categories = ["Travels"]
 date = "2016-03-28T20:00:49+05:30"
 description = "My 3 weeks backpacking adventure in India with a tight budget to enjoy the contrast than luxury: Jaipur"
-tags = ["backpacking", "travels"]
 title = "3 Weeks Backpacking India: Jaipur"
 social_image = "https://s-media-cache-ak0.pinimg.com/564x/34/28/a9/3428a9af04cffb9abee706e9a6e666fd.jpg"
+categories = [
+  "travels"
+]
 +++
 
 After my [pretty bad experience in Agra]({{<ref "post/3-weeks-backpacking-india-5.md">}}), I traveled to {{<ext-link "Jaipur, the Pink City" "https://en.wikipedia.org/wiki/Jaipur">}}, and this is how it went.

@@ -1,7 +1,6 @@
 +++
 categories = []
 date = "2015-04-24T13:00:00+00:00"
-tags = ["startups", "tech", "golang", "rustlang", "Web"]
 title = "My 5 favourite tweets of the week #10"
 description = "5 favourite tweets of the week by Ivan Fraixedes"
 aliases = [

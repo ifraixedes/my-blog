@@ -1,13 +1,12 @@
 +++
 description = "Learn how to sign your commits with Keybase.io PGP key without typing a passphrase on each commit and get your commits verified on Github"
-tags = ["git", "pgp", "github", "security", "linux"]
-categories = [
-  "Sys Admin",
-  "Linux"
-]
 date = "2016-09-18T22:29:45Z"
 title = "Setting up GPG, GIT with keybase.io"
 social_image = "https://s-media-cache-ak0.pinimg.com/originals/93/b7/0f/93b70f721d3e341e93ddea2853815df3.png"
+tags = ["git", "pgp", "github"]
+categories = [
+  "linux"
+]
 +++
 
 Back in April, {{<ext-link "Github started to support signed commits and tags with PGP" "https://github.com/blog/2144-gpg-signature-verification">}}.

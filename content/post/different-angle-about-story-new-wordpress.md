@@ -1,9 +1,11 @@
 +++
-categories = ["company-culture"]
 date = "2015-11-28T09:02:14+01:00"
 description = "Automattic has created Calypso a totally new, build entirely with JS to manage WordPress content through of a huge change of tech, tools and workflow"
 tags = ["company-culture"]
 title = "A Different Angle about the Story behind the New WordPress"
+categories = [
+  "companies"
+]
 +++
 
 If you have arrived here is because __you have given me the chance to show you if this post is about the tech and code base changes__ that WordPress (maybe better to say {{< ext-link Auttomatic "https://automattic.com/" >}} have done over the last year and half to release a new product called {{< ext-link Calypso "https://github.com/Automattic/wp-calypso" >}} which is bound to the famous {{< ext-link "WordPress CMS" "https://wordpress.org/" nofollow >}}.

@@ -2,9 +2,9 @@
 title = "Clarifying My Mistake about GET Requests with Body"
 description = "Having a body in a GET request doesn't fulfill the current HTTP/1.1 standard, take a look here to know why"
 date = "2015-04-13T00:00:00+00:00"
-tags = ["API", "Software Engineering", "REST", "Implementation", "HTTP", "Communication Protocol", "Standard"]
+tags = ["api", "http", "standard"]
 categories = [
-  "Software Engineering"
+  "software engineering"
 ]
 
 aliases = [

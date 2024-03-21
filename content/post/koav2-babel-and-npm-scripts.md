@@ -1,10 +1,12 @@
 +++
-categories = ["Software Development"]
 date = "2016-02-25T09:14:11Z"
 description = "KoaJS v2 is production ready although it remains in alpha, why? go ahead and read this post to know and see how to use BabelJS with it"
-tags = ["NodeJS", "programming", "KoaJS", "npm", "javascript", "eslint"]
 title = "KoaJS v2, BabelJS & npm scripts"
 social_image = "https://camo.githubusercontent.com/674563115c4e0d4e5d99440b916952ad795c498e/68747470733a2f2f646c2e64726f70626f7875736572636f6e74656e742e636f6d2f752f363339363931332f6b6f612f6c6f676f2e706e67"
+tags = ["nodejs", "javascript", "eslint"]
+categories = [
+  "software development"
+]
 +++
 
 Koa v2 has changed completely the middleware function signature, used in v1.x, to use {{<ext-link "ES2016 async/await functions" "http://tc39.github.io/ecmascript-asyncawait/">}} over {{<ext-link "generators" "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*">}}.

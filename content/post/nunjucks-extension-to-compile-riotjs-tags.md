@@ -1,11 +1,12 @@
 +++
-categories = ["Software Development"]
 date = "2016-03-02T16:05:37Z"
 description = "Read why and how I've created a Nunjucks extension to compile RiotJS to use in one of my side projects and also see how it looks"
-tags = ["NodeJS", "Web", "programming", "javascript"]
 title = "A Nunjucks extension to compile RiotJS tags"
 social_image = "https://s-media-cache-ak0.pinimg.com/originals/54/7e/12/547e12bf2630c38c30bbb8760f148221.png"
-
+tags = ["nodejs", "javascript"]
+categories = [
+  "software development"
+]
 +++
 
 On the way to London, meanwhile I was flying, I wanted to take advantage of the dead time without internet to write this short blog post about a {{<ext-link "Nunjucks" "http://mozilla.github.io/nunjucks/">}}, {{<ext-link "RiotJS" "http://riotjs.com/">}} and a Nunjucks extension that I've implemented, for a side project that I'm working on, to render RiotJS tags on the server.

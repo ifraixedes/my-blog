@@ -1,10 +1,12 @@
 +++
-categories = ["Performance"]
 date = "2016-03-15T19:30:46Z"
 description = "A brief script, the materials and related links of my talk about Profiling Golang Programs on March of 2016 at Golang BCN group"
-tags = ["golang", "performance", "profiling", "analysis"]
 title = "Talk at Golang BCN about Profiling Go Programs"
 social_image = "https://s-media-cache-ak0.pinimg.com/originals/f9/b7/a8/f9b7a8695ca571e8ec7b97dd2cfa72a9.png"
+tags = ["golang", "performance"]
+categories = [
+  "software development"
+]
 +++
 
 This post has two main purposes:

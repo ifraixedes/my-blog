@@ -4,7 +4,7 @@ description = "In Golang slices aren't  arrays of variable size, they're  struct
 date = "2015-03-09T11:00:00+00:00"
 tags = ["golang", "conventions", "idioms"]
 categories = [
-  "Software Development"
+  "software development"
 ]
 
 aliases = [

@@ -2,9 +2,6 @@
 title = "What about this"
 description = "What is about Ivan Fraixedes' blog. I write about Software Development, Tech Community and Start-ups and a bit  of personal theories and thoughts"
 date = "2015-01-19T11:00:00+00:00"
-tags = ["blogging"]
-categories = []
-
 aliases = [
   "/post/what-about-this",
   "/2015/01/19/what-about-this/"

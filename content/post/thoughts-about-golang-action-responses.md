@@ -2,9 +2,9 @@
 title = "Thoughts about Golang Action Responses"
 description = "After reading about a different approach of Golang HTTP Handlers to have clean code, I've implemented a benchmark to about how it performs"
 date = "2015-05-20"
-tags = ["HTTP", "Golang", "Software Engineering", "Implementation"]
+tags = ["golang"]
 categories = [
-  "Software Engineering"
+  "software engineering"
 ]
 
 aliases = [

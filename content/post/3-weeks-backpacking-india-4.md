@@ -1,10 +1,11 @@
 +++
-categories = ["Travels"]
 date = "2016-01-10T17:18:44+05:30"
 description = "My 3 weeks backpacking adventure in India with a tight budget to enjoy the contrast than luxury: one day transition in Delhi"
-tags = ["backpacking", "travels"]
 title = "3 weeks backpacking India: transition day in Delhi"
 social_image = "https://s-media-cache-ak0.pinimg.com/736x/42/16/4d/42164dbdbc1b03106ad494e0d5dd08c1.jpg"
+categories = [
+  "travels"
+]
 +++
 
 After [my turbulent travel by train from Mumbai and going around in Delhi to buy a new phone]({{<ref "post/3-weeks-backpacking-india-3.md#the-journey">}}), I reached my hotel in the evening.

@@ -1,10 +1,11 @@
 +++
-categories = ["Travels"]
 date = "2016-01-03T10:03:01+05:30"
 description = "My 3 weeks backpacking adventure in India with a tight budget to enjoy the contrast than luxury: 25 hours in a train ended up in the police station"
-tags = ["backpacking", "travels"]
 title = "3 Weeks Backpacking India: 25h in a Train"
 social_image = "https://s-media-cache-ak0.pinimg.com/736x/72/e3/af/72e3af9bc913d12508ae270113cceab3.jpg"
+categories = [
+  "travels"
+]
 +++
 
 __Train is the main transport that Indians use for long distances, is cheaper than others and they run frequently between main cities__; so [after almost a week in Mumbai]({{<ref "post/3-weeks-backpacking-india-2.md">}}), I took a train to have a long travel to go to Delhi; here you can read how it was.

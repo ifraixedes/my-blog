@@ -2,9 +2,9 @@
 title = "Behind the scene of a Gumtree Spoofed email"
 description = "A real story about what there is behind the scene of a Gumtree spoofed email"
 date = "2015-02-23T00:00:00+00:00"
-tags = ["general public", "security", "email", "cybercrime"]
+tags = ["cybercrime"]
 categories = [
-  "Security"
+  "security"
 ]
 
 aliases = [

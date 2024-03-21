@@ -2,9 +2,9 @@
 title = "Performance Execution on JS Objects Created in Different Ways"
 description = "In JS (javascript) there are different approaches to create objects and each one performs different when the object properties values are read and write"
 date = "2015-01-26T11:00:00+00:00"
-tags = ["NodeJS", "iojs", "web browser", "javascript", "performance", "research", "soft dev"]
+tags = ["nodejs", "iojs", "web-browser", "javascript", "performance"]
 categories = [
-  "Performance"
+  "software development"
 ]
 
 aliases = [

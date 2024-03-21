@@ -2,11 +2,10 @@
 title = "Profiling Golang Slices of Structs vs Pointers: Gathering Metrics"
 description = "Gathering profiling metrics (cpu and memory) about Golang slices of structs versus pointers to structs with surprisingly results what performs better"
 date = "2015-03-16T11:00:00+00:00"
-tags = ["golang", "performance", "profiling"]
+tags = ["golang", "performance"]
 categories = [
-  "Performance"
+  "software development"
 ]
-section = "programming"
 +++
 
 After the post that I wrote last week about <a href="{{< ref "post/golang-slices-structs-or-pointers-to-structs-dilemma.md" >}} target="_blank">Golang slices</a>, and what type of slices to use when we use "constructor" functions, I've got a huge curiosity to know the difference, in performance wise, what are the differences of using slices which contain literally structs versus the ones which contain pointers to the same types of structs, and how it can be affected depending of which of them is used.

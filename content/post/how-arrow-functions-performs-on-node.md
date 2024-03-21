@@ -2,9 +2,9 @@
 title = "How Arrow Functions Perform on Node?"
 date = "2016-02-18T19:18:37Z"
 description = "NodeJS is offering, natively the arrow functions since while ago, but do you know how they perform versus usual functions? in this post you'll read how"
-tags = ["performance", "NodeJS", "javascript", "soft dev", "JS2015"]
+tags = ["performance", "nodejs", "javascript"]
 categories = [
-  "Software Development"
+  "software development"
 ]
 social_image = "https://s-media-cache-ak0.pinimg.com/originals/99/49/77/994977c48fde58ac674a2d05ba5a5efb.png"
 +++

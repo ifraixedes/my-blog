@@ -2,9 +2,9 @@
 title = "Hanging around with red-black tree implementations: the beginnings"
 description = "The beginning a multi programming language red-black tree data structure implementation"
 date = "2015-03-02T11:00:00+00:00"
-tags = ["red-black tree", "trees", "data structures", "computer science", "c"]
+tags = ["data-structures","clang"]
 categories = [
-  "Data structures"
+  "software development"
 ]
 
 aliases = [

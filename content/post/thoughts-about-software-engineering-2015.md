@@ -1,10 +1,11 @@
 +++
-categories = ["Software Engineering"]
 date = "2015-12-31T18:03:32Z"
-tags = ["opinion", "Software Engineering"]
 title = "Thoughts about Software Engineering in 2015"
 description = "I am a Software Engineer advocate; these are some of my thoughts about Software Engineering before ending 2015"
 social_image = "https://s-media-cache-ak0.pinimg.com/originals/2d/76/54/2d7654d0aff97fa0fb6b222673541307.jpg"
+categories = [
+  "software engineering"
+]
 +++
 
 In last hours of this year I've decided to write which are my thoughts, in 2015, about __Software Engineering__.

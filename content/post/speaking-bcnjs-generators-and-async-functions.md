@@ -1,10 +1,13 @@
 +++
-categories = ["talks", "Software Development"]
 date = "2016-01-12T18:00:58Z"
 description = "Slides, notes & source code of my introductory talk to Generator (ES2015) & Async Functions (ES2016) at Barcelona JS group"
-tags = ["javascript", "ES2015", "ES2016", "EcmaScript", "BabelJS"]
 title = "Speaking at BarcelonaJS: Generators & Async Functions"
 social_image = "https://pbs.twimg.com/profile_images/3766360947/b73301d19e3fd4a1f9bced47ede203a1.png"
+tags = ["javascript", "es2015", "es2016", "ecmascript"]
+categories = [
+  "software development",
+  "talks",
+]
 +++
 
 Tuesday (12th of January of 2016), at __{{<ext-link "BarcelonaJS Organisation" "http://barcelonajs.org/">}}__, I gave an introductory talk about __{{<ext-link "Generators Functions which are available in EcmaScript 2015" "http://www.ecma-international.org/ecma-262/6.0/#sec-generatorfunction-objects">}}__ and __{{<ext-link "Async Functions which are defined in the draft proposal for EcmaScript 2016" "https://tc39.github.io/ecmascript-asyncawait/">}}__.
@@ -23,4 +26,3 @@ I wrote just these few slides
 and mostly I spent my time talking about them through examples which you can find {{<ext-link "in a public gist on my Github" "https://gist.github.com/ifraixedes/62a7155b87e7e7d0c71d">}}
 
 If you were there, I hope that you enjoyed or at least got something good from my talk and please don't forget __to drop a few comments with your feedback__; it will be very valuable for me to keep improving.
-

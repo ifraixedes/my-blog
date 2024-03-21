@@ -2,9 +2,10 @@
 title = "GitEvents a New Community Open Source Project"
 description = "GitEvents is a new community Open Source organisation by @NodeBCN and @LNUG which started in a hackday to manage events through GitHub interface and API"
 date = "2015-01-26T00:00:00+00:00"
-tags = ["NodeJS", "javascript", "github", "hackday", "community", "open source", "soft dev"]
+tags = ["nodejs", "javascript", "github", "hackathon"]
 categories = [
-  "Open Source"
+  "open source",
+  "software development"
 ]
 
 aliases = [

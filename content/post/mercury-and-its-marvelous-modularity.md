@@ -3,9 +3,9 @@ title = "Mercury & its marvelous modularity"
 description = "After I took a look to Mercury README long time ago, I've got my hands dirty with it during a 24 hours Hackathon, so here you can read my thoughts"
 date = "2015-06-30T11:00:00+00:00"
 slug = "mercury-and-its-marvelous-modularity"
-tags = ["frontend", "javascript", "virtual-dom", "modularity", "Hackathon"]
+tags = ["frontend", "javascript", "modularity", "hackathon"]
 categories = [
-  "Frameworks"
+  "software development"
 ]
 
 aliases = [

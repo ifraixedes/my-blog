@@ -2,9 +2,9 @@
 title = "Rack Style Golang HTTP Handlers"
 description = "After I looked a different approach to write Golang HTTP Handlers for common actions I've come up with a new approach to write those in a Ruby Rack style"
 date = "2015-06-03T11:00:00+00:00"
-tags = ["HTTP", "Golang", "Software Engineering", "Implementation", "Ruby Rack"]
+tags = ["golang"]
 categories = [
-  "Software Engineering"
+  "software engineering"
 ]
 
 aliases = [

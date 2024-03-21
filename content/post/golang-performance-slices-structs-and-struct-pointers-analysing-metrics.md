@@ -2,9 +2,9 @@
 title = "Profiling Golang Slices of Structs vs Pointers: Analysing Metrics"
 description = "Analysing profiling metrics (cpu and memory) about Golang slices of structs versus pointers to structs with surprisingly results what performs better"
 date = "2015-03-23T00:00:00+00:00"
-tags = ["golang", "performance", "profiling", "analysis"]
+tags = ["golang", "performance"]
 categories = [
-  "Performance"
+  "software development"
 ]
 
 aliases = [

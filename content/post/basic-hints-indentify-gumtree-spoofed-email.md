@@ -2,9 +2,9 @@
 title = "Basic Hints to Identify a Gumtree Spoofed email"
 description = "Some basic hints for the general public to detect spoofed emails through my real story of a received Gumtree spoofed email"
 date = "2015-02-16T00:00:00+00:00"
-tags = ["general public", "security", "email", "cybercrime"]
+tags = ["cybercrime"]
 categories = [
-  "Security"
+  "security"
 ]
 aliases = [
   "/post/basic-hints-indentify-gumtree-spoofed-email",

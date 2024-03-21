@@ -2,9 +2,9 @@
 title = "Generating OpenSSL certificates to run a NodeJS HTTPS Server"
 description = "Running a NodeJS HTTPS server is easy, however when you have to create the SSL certificates, it becomes a tedious task, so in this post I wrapped it up"
 date = "2015-04-22T00:00:00+00:00"
-tags = ["SSL", "HTTPS", "OpenSSL", "programming"]
+tags = ["ssl", "https"]
 categories = [
-  "Software Development"
+  "software development"
 ]
 
 aliases = [

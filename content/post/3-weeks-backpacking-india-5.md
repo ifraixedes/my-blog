@@ -1,10 +1,11 @@
 +++
-categories = ["Travels"]
 date = "2016-02-01T08:23:45+05:30"
 description = "My 3 weeks backpacking adventure in India with a tight budget to enjoy the contrast than luxury: Agra"
-tags = ["backpacking", "travels"]
 title = "3 weeks backpacking India: Agra"
 social_image = "https://s-media-cache-ak0.pinimg.com/564x/3f/08/fd/3f08fde23f4759bffc971c335bd801b9.jpg"
+categories = [
+  "travels"
+]
 +++
 
 My stop in Agra was because even though I wasn't much interested in see {{<ext-link "Taj Mahal" "https://en.wikipedia.org/wiki/Taj_Mahal">}}, the most of the people told me that I should visit if I was traveling India and I was going to be around it, so they convinced me to go and visit it.

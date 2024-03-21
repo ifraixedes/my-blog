@@ -2,10 +2,9 @@
 title = "JS Test with Mocha, Chai & Sinon Driven by Example"
 description = "Read about how to test in iojs/NodeJS with 100% coverage a simple AWS Lambda handler which third party dependencies with Mocha, Chai & Sinon"
 date = "2015-04-06T11:00:00+00:00"
-tags = ["testing", "iojs and NodeJS", "javascript", "soft dev", "best practices"]
+tags = ["testing", "iojs", "nodejs", "javascript", "best-practices"]
 categories = [
-  "Software Development",
-  "Best Practices"
+  "software development"
 ]
 aliases = [
   "/post/js-test-mocha-chai-sinon-driven-by-example",

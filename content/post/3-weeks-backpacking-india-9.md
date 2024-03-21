@@ -1,10 +1,10 @@
 +++
-categories = ["Travels"]
 date = "2015-11-07T11:14:45+05:30"
 description = "My 3 weeks backpacking adventure in India with a tight budget to enjoy the contrast than luxury: last days in Delhi"
-tags = ["backpacking", "travels"]
 title = "3 weeks backpacking India: last days in Delhi"
-draft = true
+categories = [
+  "travels"
+]
 +++
 
 [After my 3 nights visit to Rishikesh](3-weeks-backpacking-india-8) I headed to Delhi to spend my last days between the locals and visiting the city properly, this how it went.

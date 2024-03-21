@@ -4,7 +4,7 @@ description = "ES6 classes doesn't have any official mechanism to define private
 date = "2015-05-06T11:00:00+00:00"
 tags = ["iojs", "javascript", "es6", "hack"]
 categories = [
-  "Software Development"
+  "software development"
 ]
 
 aliases = [

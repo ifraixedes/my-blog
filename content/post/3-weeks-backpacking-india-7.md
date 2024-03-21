@@ -1,10 +1,10 @@
 +++
-categories = ["Travels"]
 date = "2015-11-03T09:48:51+05:30"
 description = "My 3 weeks backpacking adventure in India with a tight budget to enjoy the contrast than luxury: day in Delhi to transition to Rishikesh"
-tags = ["backpacking", "travels"]
 title = "3 weeks backpacking India: Delhi transition to Rishikesh"
-draft = true
+categories = [
+  "travels"
+]
 +++
 
 From Jaipur I took a train to go to Delhi to stay one night to go to <a href="" target="_blank" rel="nofollow">Rishikesh</a> the following day. This is what I did in Delhi.
@@ -16,7 +16,7 @@ In my train journey I was lucky to sit next to a lady Software Engineer; she was
 
 She told me that the ratio of **male and females in tech is 60%/40%** so it is very high in comparison that I know in Europe and USA, which is great.
 
-Travel was good, but I realised that my new phone ([4 days old, Lenovo K3 Note](3-weeks-backpacking-india-3#arrival)) was not working quite well and I stopped and I couldn't switch it on as power button stopped to work, so it sucked as I had to use map to reach Vodafone shop to get my SIM card and even worse to by the shop which I bought it to claim for a new one. At the end I could switch it on, due the phone show in the screen a virtual button to switch it on when you connect to the power.
+Travel was good, but I realized that my new phone ([4 days old, Lenovo K3 Note](3-weeks-backpacking-india-3#arrival)) was not working quite well and I stopped and I couldn't switch it on as power button stopped to work, so it sucked as I had to use map to reach Vodafone shop to get my SIM card and even worse to by the shop which I bought it to claim for a new one. At the end I could switch it on, due the phone show in the screen a virtual button to switch it on when you connect to the power.
 
 ## The day in Delhi
 

@@ -1,10 +1,10 @@
 +++
-categories = ["Travels"]
 date = "2015-11-03T09:48:51+05:30"
 description = "My 3 weeks backpacking adventure in India with a tight budget to enjoy the contrast than luxury: Rishikesh"
-tags = ["backpacking", "travels"]
 title = "3 weeks backpacking India: Rishikesh"
-draft = true
+categories = [
+  "travels"
+]
 +++
 
 After a [day in Delhi hosted by locals](3-weeks-backpacking-india-7#night) I moved to <a href="" target="_blank" rel="nofollow">Rishikesh</a>, where the <a href="" target="_blank" rel="nofollow">Ganga</a> is born and considered a spiritual place in India, besides of being a place where people go to do Yoga, meditation and adventure sports.
