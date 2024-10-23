@@ -6,8 +6,9 @@ title = "Ivan Fraixedes' Blog"
 
 # Content
 builddrafts = false
-paginate = 1000
 
+[pagination]
+pageSize = 1000
 
 [markup]
   [markup.highlight]
